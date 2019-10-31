@@ -3,5 +3,5 @@ class BankAccount{
         this.accountNumber=accountNumber;
     }
 }
-var accountName = new BankAccount(333388881111);
-console.log(accountName);
+var myAccount = new BankAccount(333388881111);
+console.log(myAccount);
