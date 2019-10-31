@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "uglify-js": "^3.6.5",
+    "underscore": "^1.9.1"
+  }
 }
